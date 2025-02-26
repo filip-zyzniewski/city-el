@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2796.000000pt"
+   height="1886.000000pt"
+   viewBox="0 0 2796.000000 1886.000000"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="schematic-english.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="0.29542715"
+     inkscape:cx="1866.7885"
+     inkscape:cy="1183.0328"
+     inkscape:window-width="1728"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5"
+     inkscape:object-nodes="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="scan"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none">
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="2796"
+       height="1886"
+       xlink:href="schematic-scan.svg"
+       id="schematic-scan.svg"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="translations">
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect13611"
+       width="1682.3998"
+       height="67.199997"
+       x="674.40002"
+       y="14.400001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.75"
+       x="175.82227"
+       y="64.800003"
+       id="text11951"><tspan
+         sodipodi:role="line"
+         id="tspan11949"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.75"
+         x="175.82227"
+         y="64.800003">Circuit diagram of a City-EL BMS with 40A charging technology as of 12.08.2010</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect13737"
+       width="300"
+       height="36"
+       x="374.40002"
+       y="120" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="276"
+       y="148.80002"
+       id="text14305"><tspan
+         sodipodi:role="line"
+         id="tspan14303"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="276"
+         y="148.80002">Under the driver's seat</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect15619"
+       width="136.79999"
+       height="28.800001"
+       x="40.800003"
+       y="143.10001" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect15643"
+       width="168"
+       height="24"
+       x="2198.3999"
+       y="1024.8" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="2176.8"
+       y="1039.2"
+       id="text16197"><tspan
+         sodipodi:role="line"
+         id="tspan16195"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="2176.8"
+         y="1039.2">Main control unit</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect16785"
+       width="93.600006"
+       height="19.200001"
+       x="2236.7998"
+       y="1329.6001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="2219.1001"
+       y="1340.3999"
+       id="text17485"><tspan
+         sodipodi:role="line"
+         id="tspan17483"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="2219.1001"
+         y="1340.3999">Ignition lock</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect18073"
+       width="163.20001"
+       height="21.599998"
+       x="2203.2002"
+       y="1548" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;line-height:1.25;font-family:sans-serif;stroke-width:0.75"
+       x="2143.2002"
+       y="1559.9999"
+       id="text19089"><tspan
+         sodipodi:role="line"
+         id="tspan19087"
+         style="stroke-width:0.75"
+         x="2143.2002"
+         y="1559.9999">Emergency stop button in the cockpit</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect19677"
+       width="172.30252"
+       height="41.770309"
+       x="2310.4202"
+       y="114.86835" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="2299.9778"
+       y="140.97479"
+       id="text21341"><tspan
+         sodipodi:role="line"
+         id="tspan21339"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="2299.9778"
+         y="140.97479">Dashboard</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect23367"
+       width="211.46219"
+       height="20.885155"
+       x="2306.5042"
+       y="207.54623" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;line-height:1.25;font-family:sans-serif;stroke-width:0.75"
+       x="2282.4468"
+       y="221.37814"
+       id="text25519"><tspan
+         sodipodi:role="line"
+         id="tspan25517"
+         style="stroke-width:0.75"
+         x="2282.4468"
+         y="221.37814">Heat shrink tube in the wiring harness</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect25689"
+       width="202.32492"
+       height="13.053221"
+       x="2517.9663"
+       y="246.70587" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="2526.6919"
+       y="251.20587"
+       id="text26125"><tspan
+         sodipodi:role="line"
+         id="tspan26123"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="2526.6919"
+         y="251.20587">Brown from the hazard lights switch</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect28933"
+       width="228.4314"
+       height="18.274506"
+       x="2525.7983"
+       y="309.36133" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="2512.3557"
+       y="322.41455"
+       id="text29647"><tspan
+         sodipodi:role="line"
+         id="tspan29645"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="2512.3557"
+         y="322.41455">Gray from the light switch / parking light</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect32063"
+       width="172.30252"
+       height="16.969189"
+       x="2545.3782"
+       y="405.95517" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="2563.71"
+       y="419.59244"
+       id="text32617"><tspan
+         sodipodi:role="line"
+         id="tspan32615"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="2563.71"
+         y="419.59244">Violet to the light switch</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect33403"
+       width="167.08124"
+       height="20.885155"
+       x="2558.4314"
+       y="631.77588" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect33405"
+       width="62.655464"
+       height="19.579832"
+       x="2558.4314"
+       y="680.07288" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect33407"
+       width="116.17367"
+       height="14.358543"
+       x="2615.8657"
+       y="682.68347" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="2568.2676"
+       y="652.13446"
+       id="text34397"><tspan
+         sodipodi:role="line"
+         id="tspan34395"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="2568.2676"
+         y="652.13446">Ignition to the relay board</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="2562.9272"
+       y="694.94543"
+       id="text34397-7"><tspan
+         sodipodi:role="line"
+         id="tspan34395-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="2562.9272"
+         y="694.94543">Ignition from the relay board</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect36998"
+       width="148.80673"
+       height="18.274509"
+       x="2570.1792"
+       y="865.42859" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect37022"
+       width="147.5014"
+       height="20.885155"
+       x="2575.4006"
+       y="918.94678" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="2589.2324"
+       y="884.14984"
+       id="text38448"><tspan
+         sodipodi:role="line"
+         id="tspan38446"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="2589.2324"
+         y="884.14984">+12V to the relay board</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="2589.2324"
+       y="940.50421"
+       id="text38448-5"><tspan
+         sodipodi:role="line"
+         id="tspan38446-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="2589.2324"
+         y="940.50421">+12V to the relay board</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect45048"
+       width="154.02802"
+       height="18.274509"
+       x="2576.7061"
+       y="1659.0645" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect45050"
+       width="167.08124"
+       height="22.190475"
+       x="2571.4846"
+       y="1739.9944" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75"
+       x="2651.4668"
+       y="1661.8123"
+       id="text45824"><tspan
+         sodipodi:role="line"
+         id="tspan45822"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75"
+         x="2651.4668"
+         y="1661.8123">Emergency stop to</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75"
+         x="2651.4668"
+         y="1676.8123"
+         id="tspan47894">the relay board</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75"
+       x="2651.1113"
+       y="1741.455"
+       id="text45824-5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75"
+         x="2651.1113"
+         y="1741.455"
+         id="tspan47894-8">Emergency stop from</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75"
+         x="2651.1113"
+         y="1756.455"
+         id="tspan49470">the relay board</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect52566"
+       width="172.30252"
+       height="20.885155"
+       x="365.49017"
+       y="315.88794" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="335.80933"
+       y="333.10925"
+       id="text53714"><tspan
+         sodipodi:role="line"
+         id="tspan53712"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="335.80933"
+         y="333.10925">48V 20A power supply</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect54830"
+       width="169.69186"
+       height="28.717087"
+       x="364.93158"
+       y="514.29694" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;mix-blend-mode:multiply;stroke-width:0.75"
+       x="335.80933"
+       y="538.05511"
+       id="text53714-9"><tspan
+         sodipodi:role="line"
+         id="tspan53712-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="335.80933"
+         y="538.05511">48V 20A power supply</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="42.376755"
+       y="170.91736"
+       id="text55584"><tspan
+         sodipodi:role="line"
+         id="tspan55582"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="42.376755"
+         y="170.91736">230V AC power supply</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect56336"
+       width="195.79834"
+       height="25.183443"
+       x="355.04761"
+       y="861.51257" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="357.43427"
+       y="881.46802"
+       id="text56692"><tspan
+         sodipodi:role="line"
+         id="tspan56690"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="357.43427"
+         y="881.46802">DC/DC converter</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect60996"
+       width="184.05042"
+       height="45.686272"
+       x="96.593834"
+       y="1207.423" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;mix-blend-mode:normal;stroke-width:0.75"
+       x="183.60374"
+       y="1225.6177"
+       id="text57744"><tspan
+         sodipodi:role="line"
+         id="tspan57742"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75"
+         x="183.60374"
+         y="1225.6177">Main battery pack</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75"
+         x="183.60374"
+         y="1250.6177"
+         id="tspan57746">12-16 x LFP100AHA</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect61100"
+       width="122.70028"
+       height="40.464989"
+       x="699.65271"
+       y="787.10925" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.75"
+       x="757.95227"
+       y="802.38367"
+       id="text61588"><tspan
+         sodipodi:role="line"
+         id="tspan61586"
+         style="text-align:center;text-anchor:middle;stroke-width:0.75"
+         x="757.95227"
+         y="802.38367">Ground point under</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.75"
+         x="757.95227"
+         y="819.88367"
+         id="tspan61656">the driver's seat</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect63234"
+       width="152.72269"
+       height="16.969189"
+       x="714.01123"
+       y="1072.9749" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-width:0.75"
+       x="688.64844"
+       y="1086.0281"
+       id="text63868"><tspan
+         sodipodi:role="line"
+         id="tspan63866"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="688.64844"
+         y="1086.0281">10 pin ribbon cable</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect64236"
+       width="122.70028"
+       height="28.717087"
+       x="353.74231"
+       y="1225.6975" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;line-height:1.25;font-family:sans-serif;stroke-width:0.75"
+       x="351.24652"
+       y="1251.7241"
+       id="text64474"><tspan
+         sodipodi:role="line"
+         id="tspan64472"
+         style="stroke-width:0.75"
+         x="351.24652"
+         y="1251.7241">Current sensor</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect64710"
+       width="121.39496"
+       height="24.801121"
+       x="715.31653"
+       y="1238.7507" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="695.85156"
+       y="1254.6667"
+       id="text64802"><tspan
+         sodipodi:role="line"
+         id="tspan64800"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="695.85156"
+         y="1254.6667">Main contactor</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect65272"
+       width="193.18767"
+       height="30.022411"
+       x="613.5014"
+       y="1186.5378" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="517.37677"
+       y="1208.7858"
+       id="text65430"><tspan
+         sodipodi:role="line"
+         id="tspan65428"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="517.37677"
+         y="1208.7858">In the motor compartment</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect66546"
+       width="105.73109"
+       height="19.579832"
+       x="150.11205"
+       y="1461.9607" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="123.51401"
+       y="1474.4873"
+       id="text66836"><tspan
+         sodipodi:role="line"
+         id="tspan66834"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="123.51401"
+         y="1474.4873">Batery heater</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect68608"
+       width="20.885155"
+       height="77.014008"
+       x="1314.4595"
+       y="527.35016" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="-590.69421"
+       y="1332.6904"
+       id="text67888"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan67886"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="-590.69421"
+         y="1332.6904">Cells</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect70510"
+       width="19.579832"
+       height="125.31093"
+       x="1242.6667"
+       y="477.74789" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="-610.8996"
+       y="1259.4574"
+       id="text69286"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan69284"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="-610.8996"
+         y="1259.4574">Control unit</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect73648"
+       width="101.81512"
+       height="52.212883"
+       x="2220.353"
+       y="452.94678" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75"
+       x="2266.947"
+       y="479.05322"
+       id="text71518"><tspan
+         sodipodi:role="line"
+         id="tspan71516"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75"
+         x="2266.947"
+         y="479.05322">buffer battery</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.75"
+         x="2266.947"
+         y="504.05322"
+         id="tspan71520">12V 5Ah</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect74664"
+       width="103.12045"
+       height="44.380951"
+       x="1027.2886"
+       y="1223.0869" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="1025.9832"
+       y="1265.4412"
+       id="text74076"><tspan
+         sodipodi:role="line"
+         id="tspan74074"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="1025.9832"
+         y="1265.4412">200A fuse</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect74768"
+       width="96.593834"
+       height="44.380951"
+       x="1027.2886"
+       y="1320.9861" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="1034.9033"
+       y="1361.8752"
+       id="text75256"><tspan
+         sodipodi:role="line"
+         id="tspan75254"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="1034.9033"
+         y="1361.8752">50A fuse</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect76442"
+       width="95.069214"
+       height="46.150105"
+       x="918.38708"
+       y="1688.1709" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="929.4632"
+       y="1731.3209"
+       id="text76534"><tspan
+         sodipodi:role="line"
+         id="tspan76532"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="929.4632"
+         y="1731.3209">3A fuse</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect78699"
+       width="155.06436"
+       height="18.460043"
+       x="1286.665"
+       y="1251.5908" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="1220.0929"
+       y="1270.051"
+       id="text77081"><tspan
+         sodipodi:role="line"
+         id="tspan77079"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="1220.0929"
+         y="1270.051">to motor controller B+</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect81537"
+       width="151.37234"
+       height="20.306047"
+       x="1290.3569"
+       y="1386.3491" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+       x="1246.5149"
+       y="1388.3132"
+       id="text81841"><tspan
+         sodipodi:role="line"
+         id="tspan81839"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
+         x="1246.5149"
+         y="1388.3132">to motor controller B-</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect84415"
+       width="162.44838"
+       height="20.306047"
+       x="1284.819"
+       y="1443.5753" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round"
+       id="rect84417"
+       width="166.14038"
+       height="16.614038"
+       x="1284.819"
+       y="1497.1095" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;line-height:1.25;font-family:sans-serif;stroke-width:0.75"
+       x="1226.667"
+       y="1459.4973"
+       id="text85315"><tspan
+         sodipodi:role="line"
+         id="tspan85313"
+         style="stroke-width:0.75"
+         x="1226.667"
+         y="1459.4973">to motor controller potentiometer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;line-height:1.25;font-family:sans-serif;stroke-width:0.75"
+       x="1227.8981"
+       y="1513.5956"
+       id="text85315-1"><tspan
+         sodipodi:role="line"
+         id="tspan85313-7"
+         style="stroke-width:0.75"
+         x="1227.8981"
+         y="1513.5956">to motor controller potentiometer</tspan></text>
+  </g>
+</svg>
