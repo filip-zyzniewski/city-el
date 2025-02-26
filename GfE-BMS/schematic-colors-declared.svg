@@ -39,7 +39,8 @@
   <g
      inkscape:label="scan"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     style="display:none">
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
@@ -142,7 +143,7 @@
        d="M 1533.6523,783.04297 V 1638.8691 H 842 v -300.6523 h -40.47852 v 4 H 838 v 300.6523 h 699.6523 V 783.04297 Z"
        id="path11259" />
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#ff0000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 2331.1466,1748.7058 h 183.5403 v -314.9699 h -181.6956"
        id="path11656" />
   </g>
