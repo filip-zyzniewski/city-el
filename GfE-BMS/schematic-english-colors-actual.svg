@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="2796.000000pt"
-   height="1886.000000pt"
-   viewBox="0 0 2796.000000 1886.000000"
+   width="2900.000000pt"
+   height="1963.000000pt"
+   viewBox="0 0 2900.000000 1963.000000"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
@@ -42,18 +42,17 @@
      id="layer1">
     <image
        preserveAspectRatio="none"
-       inkscape:svg-dpi="96"
-       width="2796"
-       height="1886"
-       xlink:href="schematic-scan.svg"
-       id="schematic-scan.svg"
+       width="2900"
+       height="1963"
+       xlink:href="schematic-scan.png"
+       id="schematic-scan.png"
        x="0"
        y="0" />
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
-       width="2796"
-       height="1886"
+       width="2900"
+       height="1963"
        xlink:href="schematic-english.svg"
        id="schematic-english.svg"
        x="0"
@@ -61,8 +60,8 @@
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
-       width="2796"
-       height="1886"
+       width="2900"
+       height="1963"
        xlink:href="schematic-colors-actual.svg"
        id="schematic-colors-actual.svg"
        x="0"
