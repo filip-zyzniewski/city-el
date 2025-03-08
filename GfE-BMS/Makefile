@@ -1,4 +1,4 @@
-all: schematic.svg
+all: schematic-scan.png
 
 schematic-scan.png: schematic-scan-1.png schematic-scan-2.png
 	magick \
@@ -8,19 +8,5 @@ schematic-scan.png: schematic-scan-1.png schematic-scan-2.png
 	-monochrome \
 	$@
 
-# potrace works better with a scaled down image
-schematic-scan.pgm: schematic-scan.png
-	magick $< -scale 30% $@
-
-schematic-scan.svg: schematic-scan.pgm
-	potrace -a 0 $< -b svg -o $@
-
 clean:
-	rm -f \
-	schematic-scan.png \
-	schematic-scan.pgm \
-	schematic-scan.svg
-
-open: schematic-scan.svg
-	open $^
-
+	rm -f schematic-scan.png
