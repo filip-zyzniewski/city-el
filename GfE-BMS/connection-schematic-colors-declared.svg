@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
-   sodipodi:docname="schematic-colors-declared.svg"
+   sodipodi:docname="connection-schematic-colors-declared.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -45,8 +45,8 @@
        preserveAspectRatio="none"
        width="2900"
        height="1963"
-       xlink:href="schematic-scan.png"
-       id="schematic-scan.png"
+       xlink:href="connection-schematic-scan.png"
+       id="connection-schematic-scan.png"
        x="0"
        y="0" />
   </g>
