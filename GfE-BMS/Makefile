@@ -1,4 +1,7 @@
-all: connection-schematic-scan.png
+all: board-schematic.svg connection-schematic-scan.png
+
+board-schematic.svg: board-schematic.kicad_sch
+	kicad-cli sch export svg $<
 
 connection-schematic-scan.png: connection-schematic-scan-1.png connection-schematic-scan-2.png
 	magick \
@@ -9,4 +12,6 @@ connection-schematic-scan.png: connection-schematic-scan-1.png connection-schema
 	$@
 
 clean:
-	rm -f connection-schematic-scan.png
+	rm -f \
+	board-schematic.svg \
+	connection-schematic-scan.png
