@@ -6,5 +6,5 @@ delivery throughout the vehicle.
 
 - [Board schematic](board-schematic.svg) drawn from nature
 - Connection schematic with wire color overlay:
-  - [German](connection-schematic-german-colors-declared.svg)
-  - [English](connection-schematic-english-colors-declared.svg)
+  - [German](connection-schematic-german-colors-declared-embedded.svg)
+  - [English](connection-schematic-english-colors-declared-embedded.svg)
