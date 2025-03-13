@@ -1,6 +1,4 @@
-ALL = board-schematic.svg connection-schematic-english-colors-declared-embedded.svg connection-schematic-german-colors-declared-embedded.svg
-
-all: $(ALL)
+all: board-schematic.svg connection-schematic-scan.png
 
 board-schematic.svg: board-schematic.kicad_sch
 	kicad-cli sch export svg $<
@@ -13,8 +11,7 @@ connection-schematic-scan.png: connection-schematic-scan-1.png connection-schema
 	-monochrome \
 	$@
 
-%-embedded.svg: %.svg
-	../tools/svg_embed_images.py $< > $@
-
 clean:
-	rm -f $(ALL)
+	rm -f \
+	board-schematic.svg \
+	connection-schematic-scan.png
