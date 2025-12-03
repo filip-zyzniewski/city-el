@@ -1,29 +1,45 @@
+name: GitHub Pages deployment
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
 jobs:
-  # Build job
   build:
-    # Specify runner +  build & upload the static files as an artifact
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
-      - name: Build static files
-        id: build
-        run: |
-          # <Not provided for brevity>
-          # At a minimum this step should build the static files of your site
-          # <Not provided for brevity>
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Upload static files as artifact
-        id: deployment
-        uses: actions/upload-pages-artifact@v3 # or specific "vX.X.X" version tag for this action
+      - name: Build the pages
+        uses: ./.github/actions/build-pages
         with:
-          path: build_outputs_folder/
+          source: ./
+          destination: ./_site
 
-  # Deployment job
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload pages artifact
+        uses: actions/upload-pages-artifact@v3
+
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
+    permissions:
+      id-token: write
+      pages: write
     steps:
       - name: Deploy to GitHub Pages
         id: deployment

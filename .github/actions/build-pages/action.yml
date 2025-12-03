@@ -1,0 +1,33 @@
+name: Build GitHub pages
+
+inputs:
+  source:
+    description: Directory where the source files reside.
+    required: true
+  destination:
+    description: Output directory of the build. Although it can be nested inside the source, it cannot be the same as the source directory.
+    required: true
+
+outputs:
+  build_revision:
+    description: Built revision
+    value: ${{ steps.build_revision.outputs.revision }}
+
+runs:
+  using: composite
+  steps:
+    - name: Determine build revision
+      id: build_revision
+      shell: bash
+      run: |
+        exec >> "$GITHUB_OUTPUT"
+        echo -n revision=
+        git -C ${{ inputs.source }} rev-parse HEAD |
+        tee ${{ inputs.source }}/build-revision.txt
+
+    - name: Build Jekyll for GitHub Pages
+      uses: actions/jekyll-build-pages@v1
+      with:
+        source: ${{ inputs.source }}
+        destination: ${{ inputs.destination }}
+        build_revision: ${{ steps.build_revision.outputs.revision }}
