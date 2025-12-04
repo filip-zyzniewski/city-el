@@ -2,9 +2,9 @@
 
 This is mostly based on my 2010
 [City-EL](https://en.wikipedia.org/wiki/CityEl) Fact4
-serial number 5240:
+serial number 5875:
 
-![City-EL Fact4 number 5240](city-el-fact4-5240.jpg)
+![City-EL Fact4 number 5875](city-el-fact4-5875.jpg)
 
 - [CityCom 80501HF DC/DC converter](DCDC-CityCom-80501HF)
 - [GfE City-EL BMS with 40A charging technology](GfE-BMS)
