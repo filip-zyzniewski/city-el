@@ -1,0 +1,30 @@
+name: GitHub Pages preview
+
+on:
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - closed
+
+permissions:
+  contents: write
+  id-token: write
+  pages: write
+  pull-requests: write
+
+concurrency:
+    group: github-pages-preview-${{ github.ref }}
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Deploy preview
+        uses: rossjrw/pr-preview-action@8ff09e486b4c23709012eedd3b42e9f0b95dd0c5  # v1.6.3
+        with:
+          preview-branch: main
