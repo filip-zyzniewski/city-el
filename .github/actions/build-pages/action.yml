@@ -16,10 +16,12 @@ outputs:
 runs:
   using: composite
   steps:
-    - name: Determine build revision
-      id: build_revision
+    - name: Build
+      id: build
       shell: bash
       run: |
+        set -o errexit
+        make -C ${{ inputs.source }}
         exec >> "$GITHUB_OUTPUT"
         echo -n revision=
         git -C ${{ inputs.source }} rev-parse HEAD |
@@ -30,4 +32,4 @@ runs:
       with:
         source: ${{ inputs.source }}
         destination: ${{ inputs.destination }}
-        build_revision: ${{ steps.build_revision.outputs.revision }}
+        build_revision: ${{ steps.build.outputs.revision }}
