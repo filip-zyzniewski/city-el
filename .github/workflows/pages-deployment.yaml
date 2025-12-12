@@ -45,7 +45,7 @@ jobs:
         uses: ./base/.github/actions/build-pages
         with:
           source: base
-          destination: _site
+          destination: _site/
 
       - name: Checkout
         if: github.event_name == 'pull_request'

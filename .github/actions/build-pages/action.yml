@@ -24,8 +24,11 @@ runs:
         make -C ${{ inputs.source }}
         exec >> "$GITHUB_OUTPUT"
         echo -n revision=
+        set -o noclobber
         git -C ${{ inputs.source }} rev-parse HEAD |
         tee ${{ inputs.source }}/build-revision.txt
+        DESTINATION="${{ inputs.destination }}"
+        echo "baseurl: 'city-el/${DESTINATION#*/}'" > ${{ inputs.source }}/_config.yml
 
     - name: Build Jekyll for GitHub Pages
       uses: actions/jekyll-build-pages@v1
