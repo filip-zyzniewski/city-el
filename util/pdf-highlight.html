@@ -1,0 +1,74 @@
+<!doctype html>
+<!--
+Usage:
+  to show page 3 of document.pdf with a 10%x5% area starting at 10%,20% highlighted:
+    pdf-highlight.html?url=document.pdf&page=3&x=10&y=20&w=10&h=5
+-->
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <style>
+      html, body, canvas {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        overflow: hidden;
+      }
+      div#highlight {
+        background-color: rgba(255, 0, 0, 0.2);
+        border: 3px solid red;
+        border-radius: 50%;
+        position: absolute;
+      }
+    </style>
+    <title>PDF highlighter</title>
+  </head>
+  <body>
+    <canvas/></canvas>
+    <div id="highlight"></div>
+
+    <script src="https://unpkg.com/pdfjs-dist@5.4.449/build/pdf.mjs" type="module" id="pdfjs"></script>
+
+    <script type="module">
+      const params = new URLSearchParams(window.location.search)
+
+      const canvas = document.querySelector("canvas");
+      const module  = document.querySelector('script[id="pdfjs"]');
+
+      pdfjsLib.GlobalWorkerOptions.workerSrc = module.src.substring(
+        0,
+        module.src.lastIndexOf("/"),
+      ) + "/pdf.worker.mjs";
+
+      const pdf = await pdfjsLib.getDocument(params.get("url")).promise;
+      const page = await pdf.getPage(parseInt(params.get("page") || 1));
+
+      const scale = canvas.clientHeight / page.getViewport({ scale: 1 }).height * (window.devicePixelRatio || 1);
+      const viewport = page.getViewport({ scale: scale });
+      canvas.width = viewport.width;
+      canvas.height = viewport.height;
+
+      page.render({
+        canvasContext: canvas.getContext("2d"),
+        viewport,
+      });
+
+      const x = params.get("x")
+      const y = params.get("y")
+      const width = params.get("w")
+      const height = params.get("h")
+
+      if (x && y && width && height) {
+        Object.assign(
+          document.querySelector("div#highlight").style,
+          {
+            left: `${x}%`,
+            top: `${y}%`,
+            width: `${width}%`,
+            height: `${height}%`,
+          }
+        )
+      }
+    </script>
+  </body>
+</html>
