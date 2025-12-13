@@ -2,17 +2,25 @@
 
 import sys
 
-import cadquery as cq
 import cq_editor.cqe_run
 
-box = cq.Workplane("front").box(4, 2, 1)
+import cityel_drive_axle_model
+import cityel_drive_axle_model.spline_cutter
+import cityel_drive_axle_model.workplane
 
 if "show_object" in globals():
+    wp = cityel_drive_axle_model.workplane.Workplane("YZ")
+    axle = cityel_drive_axle_model.PermThrige().build(wp)
+    wp = wp.transformed(offset=(50, 0, 0))
+    spline_cutter_tool = cityel_drive_axle_model.spline_cutter.Tool.build(wp)
     # ruff: noqa: F821
     show_object(
-        box,
-        name="box",
-        options={"color": (255, 0, 0)},
+        spline_cutter_tool,
+        name="spline cutter tool",
+    )
+    show_object(
+        axle,
+        name="drive axle",
     )
 
 
