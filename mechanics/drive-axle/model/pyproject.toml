@@ -1,0 +1,14 @@
+[project]
+name = "cityel-drive-axle-model"
+version = "0.1.0"
+description = "Model of the City-EL drive axle"
+readme = "README.md"
+authors = [
+    { name = "Filip Zyzniewski", email = "filip.zyzniewski@gmail.com" }
+]
+requires-python = ">=3.13.11"
+dependencies = []
+
+[build-system]
+requires = ["uv_build>=0.9.17,<0.10.0"]
+build-backend = "uv_build"
