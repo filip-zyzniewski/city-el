@@ -16,6 +16,9 @@ dependencies = [
 requires = ["uv_build>=0.9.17,<0.10.0"]
 build-backend = "uv_build"
 
+[project.scripts]
+edit = "cityel_drive_axle_model._edit:run"
+
 [tool.uv.sources]
 cq-warehouse = { git = "https://github.com/gumyr/cq_warehouse.git" }
 
