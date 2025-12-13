@@ -1,0 +1,11 @@
+SUBDIRS := \
+	DCDC-CityCom-80501HF \
+	GfE-BMS
+
+TARGETS := all clean
+
+$(TARGETS): $(SUBDIRS)
+.PHONY: $(TARGETS) $(SUBDIRS)
+
+$(SUBDIRS):
+	make -C $@ $(MAKECMDGOALS)

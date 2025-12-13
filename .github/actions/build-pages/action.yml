@@ -16,18 +16,23 @@ outputs:
 runs:
   using: composite
   steps:
-    - name: Determine build revision
-      id: build_revision
+    - name: Build
+      id: build
       shell: bash
       run: |
+        set -o errexit
+        make -C ${{ inputs.source }}
         exec >> "$GITHUB_OUTPUT"
         echo -n revision=
+        set -o noclobber
         git -C ${{ inputs.source }} rev-parse HEAD |
         tee ${{ inputs.source }}/build-revision.txt
+        DESTINATION="${{ inputs.destination }}"
+        echo "baseurl: 'city-el/${DESTINATION#*/}'" > ${{ inputs.source }}/_config.yml
 
     - name: Build Jekyll for GitHub Pages
       uses: actions/jekyll-build-pages@v1
       with:
         source: ${{ inputs.source }}
         destination: ${{ inputs.destination }}
-        build_revision: ${{ steps.build_revision.outputs.revision }}
+        build_revision: ${{ steps.build.outputs.revision }}
