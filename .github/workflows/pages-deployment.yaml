@@ -17,6 +17,9 @@ jobs:
     permissions:
       contents: read
     steps:
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v7
+
       - name: Configure pages
         id: configure
         uses: actions/configure-pages@v5
