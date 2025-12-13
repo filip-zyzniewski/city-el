@@ -21,5 +21,6 @@ cq-warehouse = { git = "https://github.com/gumyr/cq_warehouse.git" }
 
 [dependency-groups]
 dev = [
+    "cq-editor>=0.5.0",
     "ruff>=0.14.9",
 ]
