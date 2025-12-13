@@ -7,3 +7,4 @@ serial number 5875:
 ![City-EL Fact4 number 5875](city-el-fact4-5875.jpg)
 
 - [electronics](electronics)
+- [mechanics](mechanics)
