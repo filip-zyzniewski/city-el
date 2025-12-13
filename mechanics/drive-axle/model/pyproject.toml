@@ -18,3 +18,8 @@ build-backend = "uv_build"
 
 [tool.uv.sources]
 cq-warehouse = { git = "https://github.com/gumyr/cq_warehouse.git" }
+
+[dependency-groups]
+dev = [
+    "ruff>=0.14.9",
+]
