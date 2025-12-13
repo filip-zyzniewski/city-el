@@ -8,12 +8,23 @@ Usage:
   <head>
     <meta charset="UTF-8" />
     <style>
-      html, body, canvas {
+      html, body, div#wrapper, canvas {
         margin: 0;
         padding: 0;
         height: 100%;
         overflow: hidden;
       }
+
+      div#wrapper {
+        position: relative;
+        display: inline-block;
+      }
+
+      canvas {
+        position: relative;
+        display: block;
+      }
+
       div#highlight {
         background-color: rgba(255, 0, 0, 0.2);
         border: 3px solid red;
@@ -24,8 +35,10 @@ Usage:
     <title>PDF highlighter</title>
   </head>
   <body>
-    <canvas/></canvas>
-    <div id="highlight"></div>
+    <div id="wrapper">
+      <canvas/></canvas>
+      <div id="highlight"></div>
+    </div>
 
     <script src="https://unpkg.com/pdfjs-dist@5.4.449/build/pdf.mjs" type="module" id="pdfjs"></script>
 
