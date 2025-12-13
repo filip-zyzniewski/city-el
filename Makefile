@@ -1,6 +1,6 @@
 SUBDIRS := \
-	DCDC-CityCom-80501HF \
-	GfE-BMS
+	electronics/DCDC-CityCom-80501HF \
+	electronics/GfE-BMS
 
 TARGETS := all clean
 

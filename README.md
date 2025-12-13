@@ -6,5 +6,5 @@ serial number 5875:
 
 ![City-EL Fact4 number 5875](city-el-fact4-5875.jpg)
 
-- [CityCom 80501HF DC/DC converter](DCDC-CityCom-80501HF)
-- [GfE City-EL BMS with 40A charging technology](GfE-BMS)
+- [electronics](electronics)
+- [mechanics](mechanics)

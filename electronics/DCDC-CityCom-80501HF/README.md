@@ -8,7 +8,7 @@ Resources:
 
 - Schematic drawn from nature:
   - [SVG image](schematic.svg)
-  - [KiCad source](https://github.com/filip-zyzniewski/city-el/blob/main/DCDC-CityCom-80501HF/schematic.kicad_sch)
+  - [KiCad source](https://github.com/filip-zyzniewski/city-el/blob/main/electronics/DCDC-CityCom-80501HF/schematic.kicad_sch)
 - [Component symbols](pcb-components.svg) used in the schematic, made up
 - PCB Photos for reference:
   - [front](pcb-photo-front.jpg)
