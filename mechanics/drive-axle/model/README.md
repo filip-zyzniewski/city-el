@@ -2,6 +2,27 @@
 
 This model is created using [CadQuery](https://cadquery.readthedocs.io).
 
+## Model files
+
+## Axle model
+
+This model fits both Thrige Titan TTL 140B and Perm PMG132 motor keyways
+
+- [live preview](https://3dviewer.net/#model={{ page.dir | append: 'axle.step' | absolute_url }})
+- [GLB format](axle.glb)
+- [STEP format](axle.step)
+- [STL format](axle.stl)
+
+## Spline cutter model
+
+This is a model of a tool that can be used to cut out
+the grooves for the fixed wheel spline.
+
+- [live preview](https://3dviewer.net/#model={{ page.dir | append: 'spline_cutter.glb' | absolute_url }})
+- [GLB format](spline_cutter.glb)
+- [STEP format](spline_cutter.step)
+- [STL format](spline_cutter.stl)
+
 ## Working with the model code
 
 The project package is managed using
