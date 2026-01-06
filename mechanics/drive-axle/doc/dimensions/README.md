@@ -8,6 +8,14 @@ length: 1041 mm
 ![](axle-length.jpg)
 [drawing](../axle-drawing.html?page=1&x=49&y=11.3&w=6&h=4): 1039.5 mm
 
+### Distance between main bearings
+
+- measurements:
+  [1041](#axle) - [107](#length) - [100](#length-2) = 834 mm
+
+- drawing:
+  [1039.5](#axle) - [106.5](#length) - [100](#length-2) = 833 mm
+
 ## Clutch (right) side
 
 ### Axle diameter
@@ -31,6 +39,14 @@ length: 1041 mm
 107 mm
 ![](clutch-side/bearing-reduction-length.jpg)
 [drawing](../axle-drawing.html?page=1&x=24&y=21.4&w=5&h=2.5): 106.5 mm
+
+#### length without the thread
+
+- measurements:
+  [107](#length) - [20.4](#length-1) = 86.6 mm
+
+- drawing:
+  [106.5](#length) - [20](#length-1) = 86.5 mm
 
 ### Centering hole
 
@@ -120,6 +136,14 @@ drawing:
 100 mm
 ![](spline-side/bearing-reduction-length.jpg)
 [drawing](../axle-drawing.html?page=1&x=78&y=23.5&w=3.5&h=2.5)
+
+#### length without the thread
+
+- measurements:
+  [100](#length-2) - [23.55](#length-4) = 76.45 mm
+
+- drawing:
+  [100](#length-2) - [24.5](#length-4) = 75.5 mm
 
 ### Spline
 
