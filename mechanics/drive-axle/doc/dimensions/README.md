@@ -1,6 +1,12 @@
 # City-EL axle dimensions
+{:.no_toc}
 
 With measurement photographs and references to technical drawings.
+
+Table of contents:
+
+- TOC
+{:toc}
 
 ## Axle
 
@@ -256,7 +262,7 @@ distance between left and right keyways: 123.6 mm
 
 #### Left keyway
 
-#### distance to bearing
+##### distance to bearing
 
 60 mm
 ![](motor-keyways/perm-left-keyway-bearing-distance.jpg)
@@ -265,20 +271,20 @@ drawing:
 [100](../axle-drawing.html?page=1&x=78&y=23.5&w=3.5&h=2.5) =
 59.5 mm
 
-#### width
+##### width
 
 19.9 mm
 ![](motor-keyways/perm-left-keyway-width.jpg)
 [drawing](../axle-drawing.html?page=1&x=55.6&y=33&w=2.5&h=2.5): 22 mm
 
-#### height
+##### height
 
 5.9 mm
 ![](motor-keyways/perm-left-keyway-height.jpg)
 [drawing](../axle-drawing.html?page=1&x=56&y=56&w=2&h=3): 6 mm
 
 
-#### depth
+##### depth
 
 3.3 mm
 ![](motor-keyways/perm-left-keyway-depth.jpg)
@@ -290,11 +296,17 @@ This keyway seems to have gotten added to facilitate mounting the Perm motor
 the other way around so that it rotates in its design direction
 when driving forward.
 
-width: 36 mm
+##### width
+
+36 mm
 ![](motor-keyways/perm-right-keyway-width.jpg)
 
-height: 6 mm
+##### height
+
+6 mm
 ![](motor-keyways/perm-right-keyway-height.jpg)
 
-depth: 3.55 mm
+##### depth
+
+3.55 mm
 ![](motor-keyways/perm-right-keyway-depth.jpg)
