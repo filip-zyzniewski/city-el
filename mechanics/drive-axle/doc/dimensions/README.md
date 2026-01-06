@@ -171,13 +171,13 @@ inner diameter: 13.4 mm
 
 #### pitch
 
-17.7 / 12 = 1.47 mm =~ 1.5 mm
+16.5 / 11 = 1.5 mm
 ![](spline-side/thread-pitch.jpg)
 [drawing](../doc/axle-drawing.html?page=1&x=86.9&y=49&w=2&h=4)
 
 #### length
 
-23.1 mm
+23.55 mm
 ![](spline-side/thread-length.jpg)
 [drawing](../axle-drawing.html?page=1&x=85.6&y=31&w=3&h=2.5): 24.5 mm
 
@@ -221,7 +221,7 @@ According to the drawing, it's
 
 #### depth
 
-3.9 mm
+4.4 mm
 ![](motor-keyways/thrige-keyway-depth.jpg)
 [drawing](../axle-drawing.html?page=1&x=45.4&y=58&w=2&h=3): 4 mm
 
@@ -249,7 +249,7 @@ drawing:
 
 #### height
 
-6.05 mm
+5.9 mm
 ![](motor-keyways/perm-left-keyway-height.jpg)
 [drawing](../axle-drawing.html?page=1&x=56&y=56&w=2&h=3): 6 mm
 
@@ -272,5 +272,5 @@ width: 36 mm
 height: 6 mm
 ![](motor-keyways/perm-right-keyway-height.jpg)
 
-depth: 3.4 mm
+depth: 3.55 mm
 ![](motor-keyways/perm-right-keyway-depth.jpg)
