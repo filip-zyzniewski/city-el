@@ -1,3 +1,5 @@
+.PHONY: clean lint
+
 all: board-schematic.svg connection-schematic-scan.png
 
 board-schematic.svg: board-schematic.kicad_sch
@@ -14,3 +16,5 @@ board-schematic.svg: board-schematic.kicad_sch
 
 clean:
 	rm -f board-schematic.svg
+
+lint:

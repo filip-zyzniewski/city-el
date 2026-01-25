@@ -1,3 +1,5 @@
+.PHONY: clean lint
+
 all: schematic.svg
 
 schematic.svg: schematic.kicad_sch
@@ -14,3 +16,5 @@ schematic.svg: schematic.kicad_sch
 
 clean:
 	rm -f schematic.svg
+
+lint:

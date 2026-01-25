@@ -1,0 +1,45 @@
+[project]
+name = "cityel-drive-axle-model"
+version = "0.1.0"
+description = "Model of the City-EL drive axle"
+readme = "README.md"
+authors = [
+    { name = "Filip Zyzniewski", email = "filip.zyzniewski@gmail.com" }
+]
+requires-python = ">=3.13.11"
+dependencies = [
+    "cadquery>=2.6.1",
+    "cq-warehouse",
+]
+
+[build-system]
+requires = ["uv_build>=0.9.17,<0.10.0"]
+build-backend = "uv_build"
+
+[project.scripts]
+edit = "cityel_drive_axle_model._edit:run"
+
+[tool.ruff.lint]
+# https://docs.astral.sh/ruff/rules
+select = [
+    "ANN",  # flake8-annotations
+    "B",  # flake8-bugbear
+    "C4",  # flake8-comprehensions
+    "D",  # pydocstyle
+    "F",  # Pyflakes
+    "I",  # isort
+    "PL",  # Pylint
+    "SIM",  # flake8-simplify
+    "Q",  # flake8-quotes
+    "U",  # pyupgrade
+    "W",  # pycodestyle
+]
+
+[tool.uv.sources]
+cq-warehouse = { git = "https://github.com/gumyr/cq_warehouse.git" }
+
+[dependency-groups]
+dev = [
+    "cq-editor>=0.5.0",
+    "ruff>=0.14.9",
+]
