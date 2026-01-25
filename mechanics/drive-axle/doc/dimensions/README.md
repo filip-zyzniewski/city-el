@@ -59,6 +59,8 @@ length: 1041 mm
 outer diameter: 5 mm
 ![](clutch-side/centering-hole-outer-diameter.jpg)
 
+[drawing](../axle-drawing.html?page=1&x=10.3&y=41.3&w=2.8&h=2): 3.35 mm
+
 ### Chamfer
 
 inner diameter: 13.4 mm
