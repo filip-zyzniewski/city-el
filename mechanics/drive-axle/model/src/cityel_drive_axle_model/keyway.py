@@ -71,8 +71,8 @@ class Thrige(Keyway):
     OFFSET = 359.5
 
 
-class Perm(Keyway):
-    """Axle keyway for the Perm PMG132 motor."""
+class PermLeft(Keyway):
+    """Left axle keyway for the Perm PMG132 motor."""
 
     # https://filip-zyzniewski.github.io/city-el/mechanics/drive-axle/doc/axle-drawing.html?page=1&x=53.2&y=41.7&w=9&h=4
 
