@@ -1,6 +1,9 @@
 # City-EL drive axle CAD model
 
-This model is created using [CadQuery](https://cadquery.readthedocs.io).
+This model is created using [CadQuery](https://cadquery.readthedocs.io),
+its source code lives at
+<https://github.com/filip-zyzniewski/city-el/tree/main/mechanics/drive-axle/model>
+.
 
 ## Model files
 
