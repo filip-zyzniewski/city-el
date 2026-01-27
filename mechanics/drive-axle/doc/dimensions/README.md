@@ -296,7 +296,8 @@ drawing:
 
 This keyway seems to have gotten added to facilitate mounting the Perm motor
 the other way around so that it rotates in its design direction
-when driving forward.
+when driving forward (see this
+[elektroauto-forum post](https://elektroauto-forum.de/beitrag/laufrichtung-perm.311678/#post-964899)).
 
 ##### width
 

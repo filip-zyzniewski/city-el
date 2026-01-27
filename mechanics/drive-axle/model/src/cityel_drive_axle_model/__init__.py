@@ -235,7 +235,10 @@ class Thrige(Axle):
 class Perm(Axle):
     """An axle that has a keyway for a Perm PMG132 motor."""
 
-    KEYWAYS = (cityel_drive_axle_model.keyway.Perm,)
+    KEYWAYS = (
+        cityel_drive_axle_model.keyway.PermLeft,
+        cityel_drive_axle_model.keyway.PermRight,
+    )
 
 
 class PermThrige(Axle):

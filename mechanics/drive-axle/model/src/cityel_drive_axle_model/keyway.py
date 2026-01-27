@@ -71,8 +71,8 @@ class Thrige(Keyway):
     OFFSET = 359.5
 
 
-class Perm(Keyway):
-    """Axle keyway for the Perm PMG132 motor."""
+class PermLeft(Keyway):
+    """Left axle keyway for the Perm PMG132 motor."""
 
     # https://filip-zyzniewski.github.io/city-el/mechanics/drive-axle/doc/axle-drawing.html?page=1&x=53.2&y=41.7&w=9&h=4
 
@@ -84,3 +84,20 @@ class Perm(Keyway):
     DEPTH = 4.5
     # https://filip-zyzniewski.github.io/city-el/mechanics/drive-axle/doc/axle-drawing.html?page=1&x=74.2&y=19.8&w=5&h=3
     OFFSET = 159.5
+
+
+class PermRight(Keyway):
+    """Right axle keyway for the Perm PMG132 motor."""
+
+    # https://filip-zyzniewski.github.io/city-el/mechanics/drive-axle/doc/dimensions/#width-3
+    WIDTH = 36
+    # https://filip-zyzniewski.github.io/city-el/mechanics/drive-axle/doc/dimensions/#height-3
+    HEIGHT = 6
+    # https://filip-zyzniewski.github.io/city-el/mechanics/drive-axle/doc/dimensions/#depth-2
+    DEPTH = 4.5
+    OFFSET = (
+        PermLeft.OFFSET
+        + PermLeft.WIDTH
+        # https://filip-zyzniewski.github.io/city-el/mechanics/drive-axle/doc/dimensions/#perm
+        + 123.6
+    )
